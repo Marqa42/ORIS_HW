@@ -1,0 +1,14 @@
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\bin\Debug\net9.0\GageAndDot.exe
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\bin\Debug\net9.0\GageAndDot.deps.json
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\bin\Debug\net9.0\GageAndDot.runtimeconfig.json
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\bin\Debug\net9.0\GageAndDot.dll
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\bin\Debug\net9.0\GageAndDot.pdb
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\obj\Debug\net9.0\GageAndDot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\obj\Debug\net9.0\GageAndDot.AssemblyInfoInputs.cache
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\obj\Debug\net9.0\GageAndDot.AssemblyInfo.cs
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\obj\Debug\net9.0\GageAndDot.csproj.CoreCompileInputs.cache
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\obj\Debug\net9.0\GageAndDot.dll
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\obj\Debug\net9.0\refint\GageAndDot.dll
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\obj\Debug\net9.0\GageAndDot.pdb
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\obj\Debug\net9.0\GageAndDot.genruntimeconfig.cache
+C:\Users\fajzu\RiderProjects\GageAndDot\GageAndDot\obj\Debug\net9.0\ref\GageAndDot.dll

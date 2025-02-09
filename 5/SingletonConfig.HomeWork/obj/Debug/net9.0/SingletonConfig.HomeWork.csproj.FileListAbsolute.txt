@@ -1,0 +1,15 @@
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\bin\Debug\net9.0\SingletonConfig.HomeWork.exe
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\bin\Debug\net9.0\SingletonConfig.HomeWork.deps.json
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\bin\Debug\net9.0\SingletonConfig.HomeWork.runtimeconfig.json
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\bin\Debug\net9.0\SingletonConfig.HomeWork.dll
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\bin\Debug\net9.0\SingletonConfig.HomeWork.pdb
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\obj\Debug\net9.0\SingletonConfig.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\obj\Debug\net9.0\SingletonConfig.HomeWork.AssemblyInfoInputs.cache
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\obj\Debug\net9.0\SingletonConfig.HomeWork.AssemblyInfo.cs
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\obj\Debug\net9.0\SingletonConfig.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\obj\Debug\net9.0\SingletonConfig.HomeWork.dll
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\obj\Debug\net9.0\refint\SingletonConfig.HomeWork.dll
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\obj\Debug\net9.0\SingletonConfig.HomeWork.pdb
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\obj\Debug\net9.0\SingletonConfig.HomeWork.genruntimeconfig.cache
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\obj\Debug\net9.0\ref\SingletonConfig.HomeWork.dll
+C:\Users\bulat\RiderProjects\SingletonConfig.HomeWork\SingletonConfig.HomeWork\bin\Debug\net9.0\config.json

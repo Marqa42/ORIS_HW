@@ -1,0 +1,28 @@
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.exe
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.deps.json
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.runtimeconfig.json
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.dll
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.pdb
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.AssemblyInfoInputs.cache
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.AssemblyInfo.cs
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.csproj.CoreCompileInputs.cache
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.dll
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\obj\Debug\net9.0\refint\GameAndServer.dll
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.pdb
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.genruntimeconfig.cache
+C:\Users\fajzu\RiderProjects\GageAndDot\GameAndServer\obj\Debug\net9.0\ref\GameAndServer.dll
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.exe
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.deps.json
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.runtimeconfig.json
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.dll
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\bin\Debug\net9.0\GameAndServer.pdb
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.AssemblyInfoInputs.cache
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.AssemblyInfo.cs
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.csproj.CoreCompileInputs.cache
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.dll
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\obj\Debug\net9.0\refint\GameAndServer.dll
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.pdb
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\obj\Debug\net9.0\GameAndServer.genruntimeconfig.cache
+C:\Users\fajzu\OneDrive\Рабочий стол\GageAndDot\GageAndDot\GameAndServer\obj\Debug\net9.0\ref\GameAndServer.dll
